@@ -23,7 +23,7 @@ public class TheaterReservations {
             String lastName = nameParts[nameParts.length - 1];
             formattedName = lastName + ", " + firstName;
         }else{
-            formattedName = nameParts[0];
+            formattedName = nameParts[0];g
             System.out.println("\nIncorrect name format: Enter your first and last name!");
 
 
