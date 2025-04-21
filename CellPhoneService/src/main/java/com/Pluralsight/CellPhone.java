@@ -1,5 +1,4 @@
-package com.pluralsight;
-import java.util.Scanner;
+package com.Pluralsight;
 
 public class CellPhone {
     private int serialNumber;
